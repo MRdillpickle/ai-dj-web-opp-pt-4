@@ -1,0 +1,30 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+body{
+    background-size: cover;
+}
+.div_menu{
+    float: center;
+    background-color: rgb(247, 183, 65);
+    border-bottom-right-radius:50px ;
+    border-bottom-left-radius:50px ;
+    height: fit-content;
+    margin-top: -20px;
+}
+.hedder{
+    color: white;
+}
+#SongName{
+    font-size: 23px;
+    margin: 15px;
+}
+canvas{
+    border-radius: 10px;
+}
